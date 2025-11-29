@@ -1,5 +1,5 @@
 Desafio Técnico - Sistema de Gestão
-
+-----------------------------------------------------------------------------------------------------------
 Este repositório contém a solução para um desafio técnico de desenvolvimento de sistemas. O projeto consiste em um script Python que simula um sistema de gestão com três funcionalidades principais: cálculo de comissões, controle de estoque e calculadora de juros.
 -----------------------------------------------------------------------------------------------------------
 Funcionalidades
@@ -71,4 +71,5 @@ Estrutura do Código
 O código foi estruturado em uma classe única SistemaDesafio para manter o estado da aplicação durante a execução, simulando um banco de dados em memória através das variáveis JSON_VENDAS e JSON_ESTOQUE.
 
 Desenvolvido como parte de um teste técnico para vaga de Desenvolvimento de Sistemas Jr.
+
 
